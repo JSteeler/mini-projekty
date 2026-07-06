@@ -1,0 +1,12 @@
+# Ignoruj cache soubory Pythonu
+__pycache__/
+*.pyc
+
+# Ignoruj virtuální prostředí (pokud ho používáš)
+.venv/
+venv/
+env/
+
+# Ignoruj skryté složky editorů
+.idea/
+.vscode/
